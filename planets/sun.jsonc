@@ -2,6 +2,12 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
 	"name": "Sun",
 	"removeChildren": [
-		""
+		"Sun_Body",
+		"GravityWell_SUN",
+		"RFVolume_Sun",
+		"AmbientLight_SUN",
+		"Atmosphere_SUN",
+		"Sector_SUN",
+		"StarLightController"
 	]
 }
